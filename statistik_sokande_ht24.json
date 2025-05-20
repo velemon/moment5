@@ -1,0 +1,3050 @@
+[
+    {
+        "type": "Kurs",
+        "name": "Ljudskapande och ljudsyntes",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "61"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i elektroteknik",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "51"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till dramatiserad podcasting",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "39"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till programmering av inbyggda system",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ljudproduktion för teater och scenframställning",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "70"
+    },
+    {
+        "type": "Kurs",
+        "name": "Tekniskt ljudskapande",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "54"
+    },
+    {
+        "type": "Kurs",
+        "name": "Distribuerade system och beräkningar",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Avancerade nätverkskoncept",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Tillämpad optimering",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Maskininlärning",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Implementering av Internet of Things-protokoll",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Grundläggande datavetenskap",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till programmering",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i elektroteknik",
+        "applicantsFirstHand": "24",
+        "applicantsTotal": "47"
+    },
+    {
+        "type": "Program",
+        "name": "Elkraftingenjör",
+        "applicantsFirstHand": "45",
+        "applicantsTotal": "156"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ellära I",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "25"
+    },
+    {
+        "type": "Program",
+        "name": "Automationsingenjör",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Kurs",
+        "name": "Inbyggda datorsystem och realtidstillämpningar",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Distribuerade algoritmer",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektroteknik - Autonoma sensorer (AUSE)",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "18"
+    },
+    {
+        "type": "Kurs",
+        "name": "Grundläggande datavetenskap",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "30"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till programmering",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "86"
+    },
+    {
+        "type": "Kurs",
+        "name": "Tillämpad maskininlärning",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "41"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i datateknik",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Maskininlärning på inbyggda system",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "21"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i datateknik - Visuell AI (VISA)",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "46"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i datateknik - Intelligenta system och nätverk (INNE)",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "24"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektroteknik - Smarta kameror (SMAC)",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektroteknik - Detektorer och multispektrala mätsystem (DEME)",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektroteknik - Intelligenta system (INSY)",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Program",
+        "name": "Automationsingenjör",
+        "applicantsFirstHand": "33",
+        "applicantsTotal": "107"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ljudproduktion GR (B), Självständigt arbete med metod",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i datateknik",
+        "applicantsFirstHand": "17",
+        "applicantsTotal": "146"
+    },
+    {
+        "type": "Program",
+        "name": "Webbutveckling",
+        "applicantsFirstHand": "578",
+        "applicantsTotal": "2343"
+    },
+    {
+        "type": "Program",
+        "name": "Datateknik",
+        "applicantsFirstHand": "58",
+        "applicantsTotal": "223"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i elektroteknik",
+        "applicantsFirstHand": "93",
+        "applicantsTotal": "239"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektroteknik - Intelligenta system",
+        "applicantsFirstHand": "18",
+        "applicantsTotal": "66"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i datateknik",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "25"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektroteknik - Autonoma sensorer",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "41"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i datateknik - Visuell AI (VISA)",
+        "applicantsFirstHand": "32",
+        "applicantsTotal": "89"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i datateknik - Intelligenta system och nätverk (INNE)",
+        "applicantsFirstHand": "31",
+        "applicantsTotal": "73"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektroteknik - Smarta kameror",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "22"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i elektroteknik - Detektorer och multispektrala mätsystem",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datateknik GR (A)",
+        "applicantsFirstHand": "47",
+        "applicantsTotal": "296"
+    },
+    {
+        "type": "Program",
+        "name": "Nätverksdrift",
+        "applicantsFirstHand": "99",
+        "applicantsTotal": "389"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datorgrafik och virtuell verklighet (VR)",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till massa- och pappersteknik",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "14"
+    },
+    {
+        "type": "Kurs",
+        "name": "Naturvetenskap och teknik för grundlärare F-3",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i kemiteknik",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Naturvetenskap och teknik för grundlärare 4-6",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i teknisk fysik",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Algebra och geometri",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Skogsprodukternas kemi",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Flervariabelanalys",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Linjär algebra I",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Serier och transformer",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i additiv tillverkning",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "26"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i teknisk design",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "70"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i teknisk fysik",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "56"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i teknisk kemi",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "45"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjörsutbildning i teknisk kemi Mittuniversitetet-KTH",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "54"
+    },
+    {
+        "type": "Program",
+        "name": "Basår/behörighetsgivande utbildning",
+        "applicantsFirstHand": "48",
+        "applicantsTotal": "154"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i teknisk yt- och kolloidkemi",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Matematik I för grundlärare F-3",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Matematik I för grundlärare 4-6",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hållfasthetslära",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Mekanik A",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "15"
+    },
+    {
+        "type": "Kurs",
+        "name": "Topologi",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Kurs",
+        "name": "Algebra I",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "39"
+    },
+    {
+        "type": "Kurs",
+        "name": "Differentialgeometri",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i teknisk fysik",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Kurs",
+        "name": " Additiv tillverkning i metall",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": " Additiv tillverkning och hållbarhet",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": " Material för additiv tillverkning",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datorstödd modellering I",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till ingenjörsarbete och produktutveckling",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Program",
+        "name": "Sportteknologi - högskoleingenjör produktutveckling",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "54"
+    },
+    {
+        "type": "Program",
+        "name": "Additiv tillverkning - högskoleingenjör maskinteknik",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "39"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i additiv tillverkning",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "15"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i additiv tillverkning",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "21"
+    },
+    {
+        "type": "Kurs",
+        "name": "Envariabelanalys 1",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Program",
+        "name": "Basår/behörighetsgivande utbildning",
+        "applicantsFirstHand": "34",
+        "applicantsTotal": "106"
+    },
+    {
+        "type": "Kurs",
+        "name": "Linjär algebra I",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fördjupningskurs i matematik",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Envariabelanalys 2",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Envariabelanalys 2",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "13"
+    },
+    {
+        "type": "Kurs",
+        "name": "Funktionalanalys",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i additiv tillverkning",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "25"
+    },
+    {
+        "type": "Kurs",
+        "name": "Matematik GR (A)",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Kurs",
+        "name": "Matematik GR (A)",
+        "applicantsFirstHand": "45",
+        "applicantsTotal": "179"
+    },
+    {
+        "type": "Kurs",
+        "name": "Additiv tillverkning - kurspaket",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "13"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fotohistoria",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "105"
+    },
+    {
+        "type": "Kurs",
+        "name": "Digital fotografi",
+        "applicantsFirstHand": "59",
+        "applicantsTotal": "454"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till fotografisk teori och komposition",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "235"
+    },
+    {
+        "type": "Kurs",
+        "name": "Digital bildbehandling för foto och film",
+        "applicantsFirstHand": "37",
+        "applicantsTotal": "526"
+    },
+    {
+        "type": "Kurs",
+        "name": "Universell utformning av digital tillgänglighet",
+        "applicantsFirstHand": "70",
+        "applicantsTotal": "406"
+    },
+    {
+        "type": "Program",
+        "name": "Grafisk design",
+        "applicantsFirstHand": "64",
+        "applicantsTotal": "393"
+    },
+    {
+        "type": "Kurs",
+        "name": "Design av lätthanterliga förpackningar",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "127"
+    },
+    {
+        "type": "Kurs",
+        "name": "Praktisk naturvård och biologisk mångfald i skog",
+        "applicantsFirstHand": "143",
+        "applicantsTotal": "290"
+    },
+    {
+        "type": "Kurs",
+        "name": "Biokemi",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Allmän kemi",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Program",
+        "name": "Industridesign",
+        "applicantsFirstHand": "28",
+        "applicantsTotal": "149"
+    },
+    {
+        "type": "Program",
+        "name": "Kandidatprogram i kemi med inriktning kemisk analys",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "25"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i biologi",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i kemi",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Program",
+        "name": "Energiingenjör",
+        "applicantsFirstHand": "29",
+        "applicantsTotal": "217"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i biologi",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "28"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i ekoteknik och hållbar utveckling",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i ekoteknik och hållbar utveckling",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Klimatförändringar, påverkan och åtgärdsstrategier",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Rumslig miljöanalys",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "14"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ekosystemtjänster",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "27"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i miljövetenskap",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i miljöteknik",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoteknik",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "36"
+    },
+    {
+        "type": "Kurs",
+        "name": "Rumslig miljömodellering",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoteknik",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "67"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoingenjör",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "58"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoingenjör",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "15"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoentreprenör för hållbar utveckling",
+        "applicantsFirstHand": "27",
+        "applicantsTotal": "123"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoentreprenör för hållbar utveckling",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "32"
+    },
+    {
+        "type": "Program",
+        "name": "Byggingenjör Hållbart byggande",
+        "applicantsFirstHand": "57",
+        "applicantsTotal": "201"
+    },
+    {
+        "type": "Program",
+        "name": "Byggingenjör Hållbart byggande",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "45"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hållbar upphandling",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "38"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljövetenskap GR (A), Hållbar utveckling - introduktionskurs",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "66"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljödriven innovation",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljövetenskap GR (A), Miljörätt A",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "119"
+    },
+    {
+        "type": "Program",
+        "name": "Internationellt masterprogram i ekoteknik och hållbar utveckling",
+        "applicantsFirstHand": "17",
+        "applicantsTotal": "39"
+    },
+    {
+        "type": "Program",
+        "name": "Ekoteknik",
+        "applicantsFirstHand": "20",
+        "applicantsTotal": "109"
+    },
+    {
+        "type": "Kurs",
+        "name": "Redigering och layout av tryckta medier",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "155"
+    },
+    {
+        "type": "Program",
+        "name": "Civilingenjör i industriell ekonomi",
+        "applicantsFirstHand": "30",
+        "applicantsTotal": "202"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskaplig forskning och teori",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "31"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hållbar arkitektur",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "39"
+    },
+    {
+        "type": "Kurs",
+        "name": "Lag och rätt för journalister",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "117"
+    },
+    {
+        "type": "Kurs",
+        "name": "Podcast, berättande och produktion",
+        "applicantsFirstHand": "32",
+        "applicantsTotal": "307"
+    },
+    {
+        "type": "Kurs",
+        "name": "Skriva för webben",
+        "applicantsFirstHand": "39",
+        "applicantsTotal": "371"
+    },
+    {
+        "type": "Kurs",
+        "name": "Video för sociala medier",
+        "applicantsFirstHand": "19",
+        "applicantsTotal": "221"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriskommunikation",
+        "applicantsFirstHand": "29",
+        "applicantsTotal": "225"
+    },
+    {
+        "type": "Kurs",
+        "name": "Strategisk digital kommunikation",
+        "applicantsFirstHand": "50",
+        "applicantsTotal": "360"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation och kommunikation",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "295"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i strategisk kommunikation",
+        "applicantsFirstHand": "147",
+        "applicantsTotal": "394"
+    },
+    {
+        "type": "Kurs",
+        "name": "Informationshantering och dokumentstyrning",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "66"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskaplig forskning och teori",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Informationssäkerhet och klassificering",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "41"
+    },
+    {
+        "type": "Kurs",
+        "name": "Interoperabilitet hos verksamhetsinformation över tid",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "24"
+    },
+    {
+        "type": "Kurs",
+        "name": "Tillgängliggörande och användning",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "17"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datorer och data från grunden",
+        "applicantsFirstHand": "18",
+        "applicantsTotal": "133"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskap AV",
+        "applicantsFirstHand": "32",
+        "applicantsTotal": "135"
+    },
+    {
+        "type": "Kurs",
+        "name": "Programmeringsmetodik I med Java",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "220"
+    },
+    {
+        "type": "Kurs",
+        "name": "Programmeringsmetodik II med Java",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "28"
+    },
+    {
+        "type": "Kurs",
+        "name": "Satir och samhälle",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "31"
+    },
+    {
+        "type": "Kurs",
+        "name": "Grundläggande arkiv- och informationsvetenskap",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "83"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till industriell ekonomi",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "136"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till Medie- och kommunikationsvetenskap",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "13"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig metod",
+        "applicantsFirstHand": "25",
+        "applicantsTotal": "44"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadskommunikation",
+        "applicantsFirstHand": "35",
+        "applicantsTotal": "485"
+    },
+    {
+        "type": "Program",
+        "name": "Journalistprogrammet",
+        "applicantsFirstHand": "28",
+        "applicantsTotal": "244"
+    },
+    {
+        "type": "Program",
+        "name": "Kommunikations- och PR-programmet",
+        "applicantsFirstHand": "22",
+        "applicantsTotal": "195"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i medie- och kommunikationsvetenskap",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "28"
+    },
+    {
+        "type": "Kurs",
+        "name": "Strategisk kommunikation",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "34"
+    },
+    {
+        "type": "Program",
+        "name": "Master by research i medie- och kommunikationsvetenskap",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "76"
+    },
+    {
+        "type": "Kurs",
+        "name": "BildAtt berätta med bilder",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "124"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kommunikationsjuridik och yrkesetik",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "89"
+    },
+    {
+        "type": "Program",
+        "name": "Programvaruteknik",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "83"
+    },
+    {
+        "type": "Kurs",
+        "name": "Java II",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "39"
+    },
+    {
+        "type": "Program",
+        "name": "Programvaruteknik",
+        "applicantsFirstHand": "178",
+        "applicantsTotal": "856"
+    },
+    {
+        "type": "Kurs",
+        "name": "Artificiell Intelligens för agenter",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Kurs",
+        "name": "Människa och AI",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "62"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation, kommunikation och ledarskap",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Program",
+        "name": "Informatik med inriktning systemutveckling",
+        "applicantsFirstHand": "268",
+        "applicantsTotal": "1463"
+    },
+    {
+        "type": "Program",
+        "name": "Informatik med inriktning systemutveckling",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "146"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i kvalitets- och ledarskapsutveckling",
+        "applicantsFirstHand": "138",
+        "applicantsTotal": "461"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskap för kvalitetsutveckling",
+        "applicantsFirstHand": "18",
+        "applicantsTotal": "128"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kvalitetsutveckling  introduktionskurs",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "105"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskap för registratorer GR (A)",
+        "applicantsFirstHand": "109",
+        "applicantsTotal": "309"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskap GR (A)",
+        "applicantsFirstHand": "286",
+        "applicantsTotal": "693"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskap GR (B)",
+        "applicantsFirstHand": "65",
+        "applicantsTotal": "86"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv- och informationsvetenskap GR (C)",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "19"
+    },
+    {
+        "type": "Kurs",
+        "name": "Datavetenskap GR (A)",
+        "applicantsFirstHand": "128",
+        "applicantsTotal": "532"
+    },
+    {
+        "type": "Kurs",
+        "name": "Påbyggnadskurs i journalistik för akademiker - Campus",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "19"
+    },
+    {
+        "type": "Kurs",
+        "name": "Påbyggnadskurs i journalistik för akademiker - Distans",
+        "applicantsFirstHand": "167",
+        "applicantsTotal": "331"
+    },
+    {
+        "type": "Program",
+        "name": "Ekonomprogram",
+        "applicantsFirstHand": "36",
+        "applicantsTotal": "271"
+    },
+    {
+        "type": "Program",
+        "name": "Civilekonomprogrammet",
+        "applicantsFirstHand": "68",
+        "applicantsTotal": "546"
+    },
+    {
+        "type": "Program",
+        "name": "Magister i Företagsekonomi: Redovisning och revision",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "17"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i Företagsekonomi: Marknadsföring och Management",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "21"
+    },
+    {
+        "type": "Kurs",
+        "name": "Global marknadsföring",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "22"
+    },
+    {
+        "type": "Kurs",
+        "name": "Redovisning i teori och praktik",
+        "applicantsFirstHand": "32",
+        "applicantsTotal": "49"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadsundersökningar och konsumentbeteende",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "21"
+    },
+    {
+        "type": "Kurs",
+        "name": "Handelsrätt II",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Finansiering i teori och praktik",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "49"
+    },
+    {
+        "type": "Kurs",
+        "name": "Konsumentbeteende",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Redovisning och revision",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadsföring i nätverk",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation och kommunikation",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Effektivt ledarskap och företagsetik",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Mikroekonomisk teori och industriell organisation",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljö- och naturresursekonomi",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kvantitativa metoder",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fastighetsekonomi",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Europeisk ekonomisk integration",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Företagsekonomi för elitidrottare",
+        "applicantsFirstHand": "34",
+        "applicantsTotal": "73"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i Företagsekonomi: Marknadsföring och Management",
+        "applicantsFirstHand": "216",
+        "applicantsTotal": "487"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arbetsrätt",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Program",
+        "name": "Ekonomprogram",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "197"
+    },
+    {
+        "type": "Program",
+        "name": "Civilekonomprogrammet",
+        "applicantsFirstHand": "50",
+        "applicantsTotal": "337"
+    },
+    {
+        "type": "Kurs",
+        "name": "Global marknadsföring",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Redovisning i teori och praktik",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "32"
+    },
+    {
+        "type": "Program",
+        "name": "Magister i Företagsekonomi: Redovisning och revision",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "17"
+    },
+    {
+        "type": "Kurs",
+        "name": "Handelsrätt II",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i Företagsekonomi: Marknadsföring och Management",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "23"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadsundersökningar och konsumentbeteende",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Mikroekonomi",
+        "applicantsFirstHand": "89",
+        "applicantsTotal": "540"
+    },
+    {
+        "type": "Program",
+        "name": "Turism och destinationsutveckling",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "68"
+    },
+    {
+        "type": "Program",
+        "name": "Turism och destinationsutveckling",
+        "applicantsFirstHand": "83",
+        "applicantsTotal": "424"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i turism",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "13"
+    },
+    {
+        "type": "Kurs",
+        "name": "Finansiering i teori och praktik",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "32"
+    },
+    {
+        "type": "Program",
+        "name": "Master i turism",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Kurs",
+        "name": "Konsumentbeteende inom turism",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "91"
+    },
+    {
+        "type": "Kurs",
+        "name": "Evenemangsturism",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "105"
+    },
+    {
+        "type": "Kurs",
+        "name": "Turismens pris",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "26"
+    },
+    {
+        "type": "Kurs",
+        "name": "Naturturism",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "91"
+    },
+    {
+        "type": "Kurs",
+        "name": "Destinationsutveckling",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "92"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kvantitativa metoder i turism",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Offentlig upphandling - fördjupning",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till turism, destinationsutveckling och hållbarhet",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till turism, destinationsutveckling och hållbarhet",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "76"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kulturarv - fred och konflikt",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "58"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning: Förberedelser och fördjupning",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Entreprenörskap och företagande inom turism",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Inkluderande friluftsliv - naturupplevelser, planering och tillgänglighet",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "76"
+    },
+    {
+        "type": "Kurs",
+        "name": "Entreprenörskap och företagande inom turism",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "87"
+    },
+    {
+        "type": "Kurs",
+        "name": "Regional ekonomi och politik",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "143"
+    },
+    {
+        "type": "Kurs",
+        "name": "Makroekonomi",
+        "applicantsFirstHand": "93",
+        "applicantsTotal": "562"
+    },
+    {
+        "type": "Kurs",
+        "name": "Juridisk översiktskurs",
+        "applicantsFirstHand": "137",
+        "applicantsTotal": "1040"
+    },
+    {
+        "type": "Kurs",
+        "name": "Konsumentbeteende",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Redovisning och revision",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadsföring i nätverk",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Projektledning inom turism",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation och kommunikation",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Effektivt ledarskap och företagsetik",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljö- och naturresursekonomi",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fastighetsekonomi",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Projektledning inom turism",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "97"
+    },
+    {
+        "type": "Kurs",
+        "name": "Mikroekonomisk teori och industriell organisation",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "68"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kvantitativa metoder",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "30"
+    },
+    {
+        "type": "Kurs",
+        "name": "Finansiell ekonomi och valutasystem",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "114"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljö- och naturresursekonomi",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "17"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fastighetsekonomi",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "34"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till fastighetsekonomi",
+        "applicantsFirstHand": "38",
+        "applicantsTotal": "284"
+    },
+    {
+        "type": "Kurs",
+        "name": "Socialrätt II",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "121"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ekonomisk utvärdering",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "74"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Turismens pris",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Turism och hållbarhet",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "18"
+    },
+    {
+        "type": "Kurs",
+        "name": "Globala miljöförändringar",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "78"
+    },
+    {
+        "type": "Kurs",
+        "name": "Europeisk ekonomisk integration",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Planering i den politiska geografin",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "52"
+    },
+    {
+        "type": "Kurs",
+        "name": "Europeisk ekonomisk integration",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "58"
+    },
+    {
+        "type": "Kurs",
+        "name": "Offentlig ekonomi",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "15"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljörättvisa, ojämlikheter och social hållbar utveckling",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "88"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kritiska perspektiv inom turismgeografi",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "50"
+    },
+    {
+        "type": "Kurs",
+        "name": "PlatsKonstKultur  upplevelse och konstnärlig gestaltning",
+        "applicantsFirstHand": "14",
+        "applicantsTotal": "28"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning: Förberedelser och fördjupning",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Samhällsentreprenörskap - ledarskap, organisation och finansiering",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "95"
+    },
+    {
+        "type": "Kurs",
+        "name": "Verksamhetsförlagd utbildning",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Turism i en föränderlig värld",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kommunalrätt",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Program",
+        "name": "Förvaltningsjuridiska programmet",
+        "applicantsFirstHand": "50",
+        "applicantsTotal": "203"
+    },
+    {
+        "type": "Kurs",
+        "name": "Offentlig upphandling - grundkurs",
+        "applicantsFirstHand": "95",
+        "applicantsTotal": "589"
+    },
+    {
+        "type": "Kurs",
+        "name": "Socialrätt I",
+        "applicantsFirstHand": "125",
+        "applicantsTotal": "725"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i Företagsekonomi: Marknadsföring och Management",
+        "applicantsFirstHand": "50",
+        "applicantsTotal": "212"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i turism",
+        "applicantsFirstHand": "18",
+        "applicantsTotal": "65"
+    },
+    {
+        "type": "Program",
+        "name": "Master i turism",
+        "applicantsFirstHand": "38",
+        "applicantsTotal": "159"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation och ledarskap",
+        "applicantsFirstHand": "88",
+        "applicantsTotal": "870"
+    },
+    {
+        "type": "Kurs",
+        "name": "Externredovisning",
+        "applicantsFirstHand": "159",
+        "applicantsTotal": "889"
+    },
+    {
+        "type": "Kurs",
+        "name": "Hållbart företagande",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "357"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ekonomistyrning",
+        "applicantsFirstHand": "115",
+        "applicantsTotal": "997"
+    },
+    {
+        "type": "Kurs",
+        "name": "Finansiering",
+        "applicantsFirstHand": "80",
+        "applicantsTotal": "625"
+    },
+    {
+        "type": "Kurs",
+        "name": "Externredovisning och räkenskapsanalys",
+        "applicantsFirstHand": "64",
+        "applicantsTotal": "318"
+    },
+    {
+        "type": "Kurs",
+        "name": "Strategisk ledning",
+        "applicantsFirstHand": "27",
+        "applicantsTotal": "297"
+    },
+    {
+        "type": "Kurs",
+        "name": "Metod",
+        "applicantsFirstHand": "35",
+        "applicantsTotal": "248"
+    },
+    {
+        "type": "Kurs",
+        "name": "Marknadsföring",
+        "applicantsFirstHand": "17",
+        "applicantsTotal": "259"
+    },
+    {
+        "type": "Kurs",
+        "name": "Litteratur och miljön",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "38"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskapsteori",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i historia",
+        "applicantsFirstHand": "23",
+        "applicantsTotal": "62"
+    },
+    {
+        "type": "Kurs",
+        "name": "Studier i engelskspråkiga länders kulturer",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "27"
+    },
+    {
+        "type": "Program",
+        "name": "Programmet för litteratur och skrivande",
+        "applicantsFirstHand": "167",
+        "applicantsTotal": "584"
+    },
+    {
+        "type": "Kurs",
+        "name": "Muntlig affärsengelska",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "158"
+    },
+    {
+        "type": "Kurs",
+        "name": "Uttal och kommunikation A1",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svensk grammatik i ett tvärspråkligt perspektiv A2",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Språksociologi och flerspråkighet A3",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Inlärning och utveckling av ett andraspråk A4",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Uttal och kommunikation A1",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "23"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svensk grammatik i ett tvärspråkligt perspektiv A2",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska språket ur ett språktypologiskt perspektiv B1",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Program",
+        "name": "Samhällsvetarprogrammet",
+        "applicantsFirstHand": "29",
+        "applicantsTotal": "167"
+    },
+    {
+        "type": "Kurs",
+        "name": "Andraspråksutveckling B2",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska som andraspråk GR (C)",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "21"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska språket GR (A)",
+        "applicantsFirstHand": "48",
+        "applicantsTotal": "190"
+    },
+    {
+        "type": "Kurs",
+        "name": "Statsvetenskap GR (A)",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "22"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska språket GR (B)",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "35"
+    },
+    {
+        "type": "Kurs",
+        "name": "Skandinavisk politik",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Literacy. Skriftbruk som social praktik igår och idag",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (A)",
+        "applicantsFirstHand": "29",
+        "applicantsTotal": "194"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (A)",
+        "applicantsFirstHand": "40",
+        "applicantsTotal": "240"
+    },
+    {
+        "type": "Kurs",
+        "name": "Genusperspektiv på språk",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (B)",
+        "applicantsFirstHand": "15",
+        "applicantsTotal": "41"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kognitiv semantik",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (C)",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "38"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sveriges senmedeltid, ca 1300-1500",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "78"
+    },
+    {
+        "type": "Kurs",
+        "name": "Läs- och skrivutveckling I. Svenska för grundlärare F3",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historisk kriminologi: Brottslighet och social kontroll under medeltid och tidigmodern tid",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "147"
+    },
+    {
+        "type": "Kurs",
+        "name": "Svenska för grundlärare I, 4-6",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "10"
+    },
+    {
+        "type": "Kurs",
+        "name": "Det sydsamiska området i historisk belysning",
+        "applicantsFirstHand": "29",
+        "applicantsTotal": "60"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ett rike som brinner: Det engelska inbördeskriget 1642-1649",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "44"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterutbildning i svenska språket",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "14"
+    },
+    {
+        "type": "Kurs",
+        "name": "Engelska GR (A)",
+        "applicantsFirstHand": "78",
+        "applicantsTotal": "406"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Svenska/Samhällskunskap (SVSA)",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "66"
+    },
+    {
+        "type": "Kurs",
+        "name": "Engelska GR (B)",
+        "applicantsFirstHand": "27",
+        "applicantsTotal": "82"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriminologi GR (C)",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "33"
+    },
+    {
+        "type": "Kurs",
+        "name": "Engelska GR (C)",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "65"
+    },
+    {
+        "type": "Kurs",
+        "name": "Engelska GR (C)",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriminella beteendets psykologi",
+        "applicantsFirstHand": "104",
+        "applicantsTotal": "1201"
+    },
+    {
+        "type": "Kurs",
+        "name": "Utvärdering av brottspreventiva insatser",
+        "applicantsFirstHand": "21",
+        "applicantsTotal": "408"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i litteraturvetenskap",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "42"
+    },
+    {
+        "type": "Kurs",
+        "name": "Humanistiska perspektiv",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskapsteori",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "En smak av latin: En introduktion till det latinska språket för humaniorastudenter",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "36"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv och medier genom tiderna",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "23"
+    },
+    {
+        "type": "Kurs",
+        "name": "Litteraturvetenskap GR (A)",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "210"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kreativt skrivande",
+        "applicantsFirstHand": "36",
+        "applicantsTotal": "312"
+    },
+    {
+        "type": "Kurs",
+        "name": "Lingvistik",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kreativt skrivande, Barn- o ungdom",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "151"
+    },
+    {
+        "type": "Kurs",
+        "name": "Lingvistisk metodologi",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kreativt skrivande",
+        "applicantsFirstHand": "25",
+        "applicantsTotal": "81"
+    },
+    {
+        "type": "Kurs",
+        "name": "Praktikperiod",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Projektarbete",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Kurs",
+        "name": "Subjektivitetens historia",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "28"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriminologi A I",
+        "applicantsFirstHand": "234",
+        "applicantsTotal": "1461"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sociologi GR (A)",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "28"
+    },
+    {
+        "type": "Kurs",
+        "name": "Samhällskunskap 1-30",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "29"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriminologi GR (A)",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "50"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historiografisk kurs",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Kurs",
+        "name": "Etnicitet och nationalitet i Mittnorden i ett historiskt perspektiv",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Arkiv och medier genom tiderna",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "19"
+    },
+    {
+        "type": "Kurs",
+        "name": "Modernism och politik",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "21"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kriminologi B I",
+        "applicantsFirstHand": "27",
+        "applicantsTotal": "156"
+    },
+    {
+        "type": "Kurs",
+        "name": "Litteraturteori I",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Litteraturteori II",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Samhällskunskap/Historia (SAHI)",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "95"
+    },
+    {
+        "type": "Kurs",
+        "name": "Politiska litteraturer",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Business Writing",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "127"
+    },
+    {
+        "type": "Program",
+        "name": "Kandidatprogram i Kriminologi",
+        "applicantsFirstHand": "119",
+        "applicantsTotal": "800"
+    },
+    {
+        "type": "Program",
+        "name": "Personal- och arbetslivsprogrammet",
+        "applicantsFirstHand": "36",
+        "applicantsTotal": "189"
+    },
+    {
+        "type": "Program",
+        "name": "Risk- och krishanteringsprogrammet",
+        "applicantsFirstHand": "37",
+        "applicantsTotal": "159"
+    },
+    {
+        "type": "Kurs",
+        "name": "Politik och samhällsstyrning",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Offentlig förvaltning i teori och praktik",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisering, beslutsfattande och genomförande av politik på lokal nivå",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Utvärdering i offentlig verksamhet",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Statsvetenskap GR (C)",
+        "applicantsFirstHand": "45",
+        "applicantsTotal": "89"
+    },
+    {
+        "type": "Kurs",
+        "name": "Risker och kriser i samhället",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "23"
+    },
+    {
+        "type": "Kurs",
+        "name": "Samhällskunskap 1-30",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "17"
+    },
+    {
+        "type": "Kurs",
+        "name": "Historia GR (B)",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Svenska/Samhällskunskap (SVSA)",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "40"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Svenska/Engelska (SVEN)",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Samhällskunskap/Historia (SAHI)",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "62"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Ämneslärare med inriktning mot arbete i gymnasieskolan - Historia/Engelska (HIEN)",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Genusvetenskap GR (A)",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "130"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till genusvetenskap A1",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "11"
+    },
+    {
+        "type": "Kurs",
+        "name": "Normkritik som teori och praktik",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "67"
+    },
+    {
+        "type": "Kurs",
+        "name": "Genusvetenskap II",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "38"
+    },
+    {
+        "type": "Kurs",
+        "name": "Kandidatkurs i genusvetenskap",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "35"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i statsvetenskap",
+        "applicantsFirstHand": "78",
+        "applicantsTotal": "234"
+    },
+    {
+        "type": "Kurs",
+        "name": "Statsvetenskap GR (A)",
+        "applicantsFirstHand": "110",
+        "applicantsTotal": "529"
+    },
+    {
+        "type": "Kurs",
+        "name": "Brott och välfärdsstaten i Västeuropa",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "54"
+    },
+    {
+        "type": "Kurs",
+        "name": "Europeiska Unionen  demokrati och representation",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "56"
+    },
+    {
+        "type": "Kurs",
+        "name": "Migrationspolitik i Europa och Sverige  en introduktion",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "52"
+    },
+    {
+        "type": "Kurs",
+        "name": "Statsvetenskap GR (B)",
+        "applicantsFirstHand": "43",
+        "applicantsTotal": "145"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sociologi GR (A)",
+        "applicantsFirstHand": "110",
+        "applicantsTotal": "706"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskaps- och organisationsutveckling",
+        "applicantsFirstHand": "61",
+        "applicantsTotal": "535"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sociologiska perspektiv på kris och frivillighet",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "67"
+    },
+    {
+        "type": "Kurs",
+        "name": "Sociologi GR (B)",
+        "applicantsFirstHand": "50",
+        "applicantsTotal": "154"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i sociologi med inriktning mot forskning och kritiska studier",
+        "applicantsFirstHand": "36",
+        "applicantsTotal": "135"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till social nätverksanalys",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "36"
+    },
+    {
+        "type": "Kurs",
+        "name": "Klimatfeminism. Feministiska kamper för rättvisa i klimatförändringarnas tid",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "41"
+    },
+    {
+        "type": "Kurs",
+        "name": "Brott och straff i svensk politik",
+        "applicantsFirstHand": "43",
+        "applicantsTotal": "619"
+    },
+    {
+        "type": "Program",
+        "name": "Psykologprogrammet",
+        "applicantsFirstHand": "177",
+        "applicantsTotal": "1317"
+    },
+    {
+        "type": "Kurs",
+        "name": "Grundkurs",
+        "applicantsFirstHand": "145",
+        "applicantsTotal": "1334"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till psykologi",
+        "applicantsFirstHand": "83",
+        "applicantsTotal": "917"
+    },
+    {
+        "type": "Kurs",
+        "name": "Miljöpsykologi",
+        "applicantsFirstHand": "11",
+        "applicantsTotal": "173"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fortsättningskurs",
+        "applicantsFirstHand": "78",
+        "applicantsTotal": "254"
+    },
+    {
+        "type": "Kurs",
+        "name": "Personlighetspsykologi",
+        "applicantsFirstHand": "30",
+        "applicantsTotal": "549"
+    },
+    {
+        "type": "Kurs",
+        "name": "Utvecklingspsykologi",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "147"
+    },
+    {
+        "type": "Kurs",
+        "name": "Klinisk psykologi",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "208"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete",
+        "applicantsFirstHand": "41",
+        "applicantsTotal": "128"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till beteendeterapi och kognitiv beteendeterapi (KBT)",
+        "applicantsFirstHand": "274",
+        "applicantsTotal": "1399"
+    },
+    {
+        "type": "Kurs",
+        "name": "Organisation, individ och förändringsarbete",
+        "applicantsFirstHand": "46",
+        "applicantsTotal": "549"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskap och samtalsmetodik",
+        "applicantsFirstHand": "34",
+        "applicantsTotal": "445"
+    },
+    {
+        "type": "Kurs",
+        "name": "Emotionsutveckling",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "54"
+    },
+    {
+        "type": "Kurs",
+        "name": "Forskningsmetod II, forskningsmetoder inom emotionspsykologi",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Emotion och kognition",
+        "applicantsFirstHand": "6",
+        "applicantsTotal": "129"
+    },
+    {
+        "type": "Kurs",
+        "name": "Emotion och biologi",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "81"
+    },
+    {
+        "type": "Kurs",
+        "name": "Klass, etnicitet, genus och makt",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Könsidentitet och könsuttryck i socialt arbete",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "13"
+    },
+    {
+        "type": "Kurs",
+        "name": "Risk- och behovsbedömning av barn, unga och deras familjers behov av stöd från samhället",
+        "applicantsFirstHand": "31",
+        "applicantsTotal": "41"
+    },
+    {
+        "type": "Kurs",
+        "name": "Åldrande, sociala problem och social exklusion. Det sociala arbetets roll",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "28"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ungas delaktighet, empowerment och inkludering",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "27"
+    },
+    {
+        "type": "Kurs",
+        "name": "Teoretiska perspektiv på det sociala arbetets praxis",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Relationsinramningsteori",
+        "applicantsFirstHand": "17",
+        "applicantsTotal": "27"
+    },
+    {
+        "type": "Kurs",
+        "name": "Skolsocialt arbete",
+        "applicantsFirstHand": "34",
+        "applicantsTotal": "197"
+    },
+    {
+        "type": "Kurs",
+        "name": "Neurovetenskap",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "24"
+    },
+    {
+        "type": "Kurs",
+        "name": "Beteende och hälsa från ett miljöpsykologiskt perspektiv",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "23"
+    },
+    {
+        "type": "Kurs",
+        "name": "Handledningsmetodik och kritiska perspektiv i socialt arbete",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "39"
+    },
+    {
+        "type": "Kurs",
+        "name": "Socialt arbete GR (A), Globalisering, transnationell migration och socialt arbete",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "90"
+    },
+    {
+        "type": "Program",
+        "name": "Socionomutbildning",
+        "applicantsFirstHand": "136",
+        "applicantsTotal": "697"
+    },
+    {
+        "type": "Program",
+        "name": "Senare del av program termin 2 el. högre",
+        "applicantsFirstHand": "37",
+        "applicantsTotal": "46"
+    },
+    {
+        "type": "Program",
+        "name": "Senare del av Masterprogram i elektroteknik, termin 3, kull HT2023",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskap och utveckling av pedagogiska verksamheter II",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "26"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vuxnas lärande i informella och formella sammanhang II",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Självständigt arbete",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Pedagogik",
+        "applicantsFirstHand": "79",
+        "applicantsTotal": "461"
+    },
+    {
+        "type": "Kurs",
+        "name": "Pedagogik",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "63"
+    },
+    {
+        "type": "Kurs",
+        "name": "Pedagogik",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "49"
+    },
+    {
+        "type": "Kurs",
+        "name": "Läs- och skrivinlärning",
+        "applicantsFirstHand": "17",
+        "applicantsTotal": "82"
+    },
+    {
+        "type": "Kurs",
+        "name": "Goda lärmiljöer - språklig mångfald  som resurs i grundskolan",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "15"
+    },
+    {
+        "type": "Kurs",
+        "name": "Goda lärmiljöer - Språklig mångfald som resurs i förskolan",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "32"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Förskollärare",
+        "applicantsFirstHand": "83",
+        "applicantsTotal": "320"
+    },
+    {
+        "type": "Kurs",
+        "name": "Socialt, emotionellt och interkulturellt lärande",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "44"
+    },
+    {
+        "type": "Kurs",
+        "name": "Undervisning i förskolan",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "21"
+    },
+    {
+        "type": "Kurs",
+        "name": "Lärande genom handledning och reflektion",
+        "applicantsFirstHand": "25",
+        "applicantsTotal": "37"
+    },
+    {
+        "type": "Kurs",
+        "name": "Högskolepedagogik och flexibelt lärande",
+        "applicantsFirstHand": "56",
+        "applicantsTotal": "90"
+    },
+    {
+        "type": "Kurs",
+        "name": "Metod- och handledarutbildning i Kulturanalys",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Specialpedagogik, med inriktning mot resilienta förhållningssätt i arbete med NPF",
+        "applicantsFirstHand": "54",
+        "applicantsTotal": "289"
+    },
+    {
+        "type": "Program",
+        "name": "Grundlärare med inriktning mot arbete i fritidshem",
+        "applicantsFirstHand": "65",
+        "applicantsTotal": "229"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Grundlärare med inriktning mot arbete i förskoleklass och grundskolans årskurs 1-3",
+        "applicantsFirstHand": "70",
+        "applicantsTotal": "322"
+    },
+    {
+        "type": "Program",
+        "name": "Lärarutbildning - Grundlärare med inriktning mot arbete i grundskolans årskurs 4-6",
+        "applicantsFirstHand": "45",
+        "applicantsTotal": "201"
+    },
+    {
+        "type": "Program",
+        "name": "Beteendevetenskapligt program",
+        "applicantsFirstHand": "217",
+        "applicantsTotal": "1339"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i pedagogik med inriktning mot professionsutveckling",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "52"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogrammet i pedagogik med inriktning mot professionsutveckling och forskning",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "59"
+    },
+    {
+        "type": "Kurs",
+        "name": "Bild som praktiskt estetiskt ämne",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "18"
+    },
+    {
+        "type": "Kurs",
+        "name": "Idrott och hälsa",
+        "applicantsFirstHand": "17",
+        "applicantsTotal": "49"
+    },
+    {
+        "type": "Kurs",
+        "name": "Utbildningsvetenskaplig kärna I, Grundlärare, Förskoleklass - åk 3",
+        "applicantsFirstHand": "3",
+        "applicantsTotal": "12"
+    },
+    {
+        "type": "Kurs",
+        "name": "Utbildningsvetenskaplig kärna I, Grundlärare  åk 4-6",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Spelbaserat lärande: Teorier och tillämpningar för utbildning och arbetsliv, 7,5 hp",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "16"
+    },
+    {
+        "type": "Kurs",
+        "name": "Ledarskap och utveckling av pedagogiska verksamheter I",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "105"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vuxnas lärande i informella och formella sammanhang I",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Artificiell intelligens: Teorier och tillämpningar för utbildning och arbetsliv, 7,5 hp",
+        "applicantsFirstHand": "28",
+        "applicantsTotal": "192"
+    },
+    {
+        "type": "Kurs",
+        "name": "Förutsättningar för yngre barns lärande I",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "7"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig design och kvantitativa metoder",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig design och kvalitativa metoder",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Elevinflytande som didaktisk praktik",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Kurs",
+        "name": "Folkhälsovetenskap AV, Individuell ämnesfördjupning I",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "21"
+    },
+    {
+        "type": "Program",
+        "name": "Sjuksköterskeutbildning",
+        "applicantsFirstHand": "161",
+        "applicantsTotal": "608"
+    },
+    {
+        "type": "Program",
+        "name": "Programmet för psykisk hälsa/ohälsa - särskild komplicerad problematik",
+        "applicantsFirstHand": "133",
+        "applicantsTotal": "586"
+    },
+    {
+        "type": "Program",
+        "name": "Psykiatrisjuksköterska",
+        "applicantsFirstHand": "20",
+        "applicantsTotal": "57"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig teori och metod",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "40"
+    },
+    {
+        "type": "Kurs",
+        "name": "Folksjukdomar",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "81"
+    },
+    {
+        "type": "Kurs",
+        "name": "Projektledning",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "44"
+    },
+    {
+        "type": "Kurs",
+        "name": "Migration och hälsa",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "38"
+    },
+    {
+        "type": "Kurs",
+        "name": "Folkhälsovetenskap GR (C)",
+        "applicantsFirstHand": "9",
+        "applicantsTotal": "28"
+    },
+    {
+        "type": "Kurs",
+        "name": "Psykiatri",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "174"
+    },
+    {
+        "type": "Kurs",
+        "name": "Beroendelära och psykisk ohälsa",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "196"
+    },
+    {
+        "type": "Kurs",
+        "name": "Examensarbete",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Kurs",
+        "name": "Diabetes Mellitus",
+        "applicantsFirstHand": "80",
+        "applicantsTotal": "155"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig metod",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogrammet i folkhälsovetenskap",
+        "applicantsFirstHand": "77",
+        "applicantsTotal": "228"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogrammet i folkhälsovetenskap",
+        "applicantsFirstHand": "61",
+        "applicantsTotal": "243"
+    },
+    {
+        "type": "Kurs",
+        "name": "Folkhälsovetenskap AV, Folkhälsa och hälsans bestämningsfaktorer",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "53"
+    },
+    {
+        "type": "Kurs",
+        "name": "Folkhälsovetenskap AV, Global hälsa",
+        "applicantsFirstHand": "10",
+        "applicantsTotal": "77"
+    },
+    {
+        "type": "Kurs",
+        "name": "Folkhälsovetenskap AV, Strategiskt folkhälsoarbete",
+        "applicantsFirstHand": "12",
+        "applicantsTotal": "67"
+    },
+    {
+        "type": "Program",
+        "name": "Programmet för Hälsa och Rehabilitering i arbetslivet",
+        "applicantsFirstHand": "124",
+        "applicantsTotal": "769"
+    },
+    {
+        "type": "Program",
+        "name": "Forskningsförberedande masterprogram i humanvetenskap - Socialt arbete (SOAA)",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "8"
+    },
+    {
+        "type": "Program",
+        "name": "Magisterprogram i idrottsprestation och idrottares hälsa",
+        "applicantsFirstHand": "44",
+        "applicantsTotal": "87"
+    },
+    {
+        "type": "Program",
+        "name": "Forskningsförberedande masterprogram i humanvetenskap - Turism (TURA)",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Optimering av idrottsprestation",
+        "applicantsFirstHand": "7",
+        "applicantsTotal": "44"
+    },
+    {
+        "type": "Kurs",
+        "name": "Återgång till spel och omhändertagande av skada",
+        "applicantsFirstHand": "5",
+        "applicantsTotal": "34"
+    },
+    {
+        "type": "Kurs",
+        "name": "Prestationsanalys och analys av data",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "25"
+    },
+    {
+        "type": "Kurs",
+        "name": "Coaching, ledarskap och idrottsorganisation",
+        "applicantsFirstHand": "2",
+        "applicantsTotal": "62"
+    },
+    {
+        "type": "Program",
+        "name": "Idrottsvetenskapligt program",
+        "applicantsFirstHand": "49",
+        "applicantsTotal": "197"
+    },
+    {
+        "type": "Program",
+        "name": "Forskningsförberedande masterprogram i humanvetenskap - Idrottsvetenskap (IDRA)",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "6"
+    },
+    {
+        "type": "Kurs",
+        "name": "Examensarbete",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Omvårdnad med inrikting avancerad palliativ vård",
+        "applicantsFirstHand": "32",
+        "applicantsTotal": "132"
+    },
+    {
+        "type": "Kurs",
+        "name": "Introduktion till idrottsvetenskap",
+        "applicantsFirstHand": "4",
+        "applicantsTotal": "56"
+    },
+    {
+        "type": "Kurs",
+        "name": "Anatomi och fysiologi",
+        "applicantsFirstHand": "16",
+        "applicantsTotal": "192"
+    },
+    {
+        "type": "Kurs",
+        "name": "Fysisk aktivitet och hälsa",
+        "applicantsFirstHand": "8",
+        "applicantsTotal": "100"
+    },
+    {
+        "type": "Kurs",
+        "name": "Testmetodik och evidensbaserad träningslära",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig teori och metod I",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Praktiskt ledarskap",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Nutrition med inriktning idrott och prestation",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "4"
+    },
+    {
+        "type": "Kurs",
+        "name": "Nutrition med inriktning fysisk aktivitet och hälsa",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "5"
+    },
+    {
+        "type": "Kurs",
+        "name": "Prestationsutveckling",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "2"
+    },
+    {
+        "type": "Kurs",
+        "name": "Promotion av fysisk aktivitet och hälsa",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "1"
+    },
+    {
+        "type": "Kurs",
+        "name": "Vetenskaplig metod",
+        "applicantsFirstHand": "1",
+        "applicantsTotal": "3"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i idrottsprestation och idrottares hälsa",
+        "applicantsFirstHand": "41",
+        "applicantsTotal": "91"
+    },
+    {
+        "type": "Kurs",
+        "name": "Forskningsmetoder och statistik",
+        "applicantsFirstHand": "0",
+        "applicantsTotal": "9"
+    },
+    {
+        "type": "Program",
+        "name": "Sjuksköterskeutbildning",
+        "applicantsFirstHand": "103",
+        "applicantsTotal": "465"
+    },
+    {
+        "type": "Program",
+        "name": "Distriktssköterska",
+        "applicantsFirstHand": "63",
+        "applicantsTotal": "124"
+    },
+    {
+        "type": "Program",
+        "name": "Masterprogram i omvårdnad",
+        "applicantsFirstHand": "61",
+        "applicantsTotal": "90"
+    },
+    {
+        "type": "Kurs",
+        "name": "Akut omhändertagande",
+        "applicantsFirstHand": "44",
+        "applicantsTotal": "208"
+    },
+    {
+        "type": "Kurs",
+        "name": "Farmakologi med sjukdomslära för förskrivningsrätt",
+        "applicantsFirstHand": "47",
+        "applicantsTotal": "151"
+    },
+    {
+        "type": "Kurs",
+        "name": "Handledarutbildning inom vård och rehabilitering I",
+        "applicantsFirstHand": "26",
+        "applicantsTotal": "83"
+    },
+    {
+        "type": "Kurs",
+        "name": "Avancerad medicinsk omvårdnad",
+        "applicantsFirstHand": "28",
+        "applicantsTotal": "128"
+    },
+    {
+        "type": "Kurs",
+        "name": "Avancerad kirurgisk omvårdnad",
+        "applicantsFirstHand": "35",
+        "applicantsTotal": "114"
+    },
+    {
+        "type": "Kurs",
+        "name": "Smitta och smittspridning",
+        "applicantsFirstHand": "13",
+        "applicantsTotal": "145"
+    },
+    {
+        "type": "Kurs",
+        "name": "kurspaket",
+        "applicantsFirstHand": "50",
+        "applicantsTotal": "170"
+    }
+]

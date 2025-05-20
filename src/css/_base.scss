@@ -1,0 +1,82 @@
+//variabler och mixins
+
+$font-stack: Monospace, Courier New;
+$secondary-font: Roboto, Sans-serif;
+$primary-color: #000000;
+$secondary-color: #ffffff;
+$background-color-light: rgba(139, 64, 64, 0.043);
+$background-color-dark: rgba(255, 255, 255, 0.091);
+$menu-color: #4e0d0d;
+$hover-color: lighten($menu-color, 50%);
+$click-color: darken($menu-color, 14%);
+$source-color: #696969;
+$primary-fontsize: 1em;
+$secondary-fontsize: 1.5em;
+$theme: light;
+
+
+@mixin menu-a() {
+    background-color: $menu-color;
+    border: none;
+    color: $secondary-color;
+    font-size: $primary-fontsize;
+    font-family: $font-stack;
+    text-decoration: none;
+    padding: 1em;
+    margin: 0;
+}
+
+@mixin intro-border() {
+    border-right: 2px solid $click-color;
+    border-left: 2px solid $click-color;
+    padding: 1em;
+    margin-bottom: 2em;
+}
+
+@mixin current-page() {
+    border: 2px solid $click-color;
+}
+
+@mixin hover-link() {
+    a:hover {
+        color: $hover-color;
+    }
+}
+
+@mixin click-link() {
+    a:active {
+        color: $click-color;
+    }
+}
+
+@mixin menu-li() {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+}
+
+@mixin title() {
+    margin: 2em 0 0 0;
+    font-family: $font-stack;
+}
+
+@mixin images() {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+    border-radius: 4em;
+}
+
+@mixin img-hover() {
+    &:hover {
+        cursor: crosshair;
+        box-shadow: rgba(140, 63, 63, 0.5) 0px 4px 16px 0px;
+    }
+}
+
+@mixin footer() {
+    color: $secondary-color;
+    font-family: $font-stack;
+    margin-top: 7em;
+}

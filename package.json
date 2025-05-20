@@ -1,0 +1,22 @@
+{
+  "name": "moment4",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel --open chrome",
+    "build": "parcel build"
+  },
+  "author": "Yasmine Budak",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.14.0",
+    "parcel": "^2.14.1",
+    "sharp": "^0.33.5"
+  },
+  "browserlist": "> 0.5%, last 2 versions, not dead",
+  "dependencies": {
+    "sass": "^1.86.0",
+    "@cubejs-client/core": "^0.31.0",
+    "chart.js": "^4.0.0"
+  }
+}

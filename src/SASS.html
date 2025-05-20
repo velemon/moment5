@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SASS</title>
+    <link rel="stylesheet" href="css/main.scss" />
+    <script src="js/scripts.js"></script>
+</head>
+
+<body>
+    <header class="header-container">
+        <nav class="nav-menu">
+            <ul>
+                <li><a href="index.html">STARTSIDA</a></li>
+                <li class="current"><a href="SASS.html">SASS</a></li>
+                <li><a href="animering.html">Animeringar</a></li>
+                <li><a href="diagram.html">Diagram</a></li>
+                <li><a href="karta.html">Karta</a></li>
+            </ul>
+        </nav>
+        <h1 id="sass-header">SASS</h1>
+    </header>
+    <main>
+        <section class="main-section">
+            <h2>Utvärdering</h2>
+            <h3 class="third-title">Vilka för- och nackdelar ser du med SASS?</h3>
+            <p>Fördelar med SASS är:</p>
+            <ul>
+                <li>Enklare hantering av färger, storlekar och typsnitt genom att lagra dessa i variabler.</li>
+                <li>Koden blir mer organiserad och läsbar om nesting används.</li>
+                <li>Mixins samlar kodstycken som enkelt går att återanvända.</li>
+                <li>Koden blir även mer läsbar genom att dela upp dessa i flera partials. Speciellt vid hantering av
+                    stora projekt.</li>
+                <li>SASS innehåller också inbyggda funktioner såsom att mörka eller ljusa upp färger.</li>
+            </ul>
+            <p>Nackdelar med SASS är:</p>
+            <ul>
+                <li>SASS kräver en kompilator och måste först översättas till CSS för att ses i webbläsaren.
+                    Exempel på kompilatorer är Node.js, Parcel eller Dart.
+                </li>
+                <li>Blir överkomplicerat om SASS bara används i en liten och enkel webbplats. Då kan det 
+                    vara smidigare och effektivare att använda endast CSS.
+                </li>
+                <li>Annan nackdel är att nesting kan å andra sidan göra koden mer svårläst om den går för djupt.</li>
+                <li>Överdriven användning av mixins och extends kan gör filerna tunga.</li>
+            </ul>
+            <h3 class="third-title">Hur var det att komma igång att arbete med en CSS-preprocessor?</h3>
+            <p>Det var lite klurigt att komma igång då jag det var helt nytt för mig och jag hade problem
+                med att Parcel kraschade varje gång det blev något fel i SASS-koden. Det innebar att 
+                jag fick starta om terminalen och starta om Parcel ofta. Detta gjorde att det tog lite längre
+                tid att komma igång. Å andra sidan fick jag verkligen se vad som blev fel varje gång. Det 
+                kunde även ta lite tid att hoppa bland alla olika filer och partials i början när man inte visste
+                vad som skulle vara vart. 
+                Bortsett från det så gick det smidigare när man förstått strukturen och syntaxen lite mer. Dock
+                finns det mycket mer att lära sig!</p>
+        </section>
+    </main>
+    <footer>
+        <p>Moment 3</p>
+        <p>Av: Yasmine Budak</p>
+    </footer>
+</body>
+
+</html>

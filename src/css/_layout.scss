@@ -1,0 +1,283 @@
+//sidans utseende så som grid, flexbox och containers
+@use "base";
+@use "component";
+
+:root {
+    --bg-color: white;
+    --text-color: black;
+    --main-bg: rgba(139, 64, 64, 0.043);
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg-color: black;
+        --text-color: white;
+        --main-bg: rgba(255, 255, 255, 0.091);
+    }
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--text-color);
+
+    @if base.$theme ==dark {
+        background-color: black;
+        color: white;
+
+        main {
+            background-color: base.$background-color-dark;
+        }
+
+    }
+
+    else {
+        background-color: white;
+        color: black;
+
+        main {
+            background-color: base.$background-color-light;
+        }
+    }
+}
+
+#intro {
+    @include base.intro-border;
+}
+
+nav,
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    background-color: base.$menu-color;
+}
+
+nav {
+
+    a {
+        @include base.menu-a;
+    }
+
+    li {
+        @include base.menu-li;
+        @include base.hover-link;
+        @include base.click-link;
+    }
+
+    ul {
+        list-style: none;
+    }
+}
+
+.current {
+    @include base.current-page;
+}
+
+.third-title {
+    font-family: base.$font-stack;
+    @include base.title;
+}
+
+h2 {
+    @extend .third-title;
+    margin-bottom: 2em;
+    text-align: center;
+}
+
+header p {
+    margin-left: 1em;
+    padding: 0.5em;
+}
+
+.header-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: base.$font-stack;
+}
+
+#sass-header {
+    margin-bottom: 3em;
+}
+
+main {
+    max-width: 110ch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: base.$background-color-light;
+    padding: 2em;
+    margin: 0 auto;
+    border-radius: 4em;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background: var(--main-bg);
+
+    p {
+        font-family: base.$secondary-font;
+        line-height: 1.5em;
+    }
+}
+
+header p,
+main li {
+    font-family: base.$secondary-font;
+    line-height: 1.5em;
+}
+
+.source {
+    color: base.$source-color;
+    margin-bottom: 1em;
+}
+
+footer {
+    @include base.footer;
+}
+
+footer p {
+    margin: 2em;
+}
+
+@media screen and (max-width: 499px) {
+    nav {
+        height: fit-content;
+        padding-top: 5%;
+
+        li {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+        }
+
+        ul {
+            padding: 0;
+            margin: 0;
+        }
+
+        .current {
+            background-color: base.$click-color;
+            border-radius: 1em;
+        }
+    }
+}
+
+#imageAnimation:hover {
+    animation: zoomAnimation 4s alternate;
+    cursor: pointer;
+}
+
+@keyframes zoomAnimation {
+    0% {
+        box-shadow: 10px 0px 20px rgba(50, 76, 171, 0.8);
+    }
+
+    25% {
+        transform: scale(1.2, 1.2);
+        box-shadow: 0px 10px 20px rgba(63, 69, 140, 0.8);
+    }
+
+    50% {
+        box-shadow: -10px 0px 20px rgba(30, 45, 212, 0.5);
+    }
+
+    75% {
+        box-shadow: 0px -10px 20px rgba(140, 63, 63, 0.8);
+    }
+
+    100% {
+        box-shadow: 10px 0px 20px rgba(228, 173, 78, 0.8);
+    }
+}
+
+.drop-container {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    pointer-events: none;
+}
+
+.drop {
+    position: absolute;
+    top: -50px;
+    height: auto;
+    opacity: 0;
+    animation: none;
+}
+
+.drop:hover {
+    box-shadow: none;
+}
+
+#imageAnimation:active~.drop-container .drop {
+    animation: dropAnimation 2s linear forwards;
+    opacity: 1;
+}
+
+.drop:nth-child(1) {
+    left: 10%;
+}
+
+.drop:nth-child(2) {
+    left: 30%;
+}
+
+.drop:nth-child(3) {
+    left: 50%;
+}
+
+.drop:nth-child(4) {
+    left: 70%;
+}
+
+.drop:nth-child(5) {
+    left: 90%;
+}
+
+@keyframes dropAnimation {
+    0% {
+        transform: translateY(0);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(100vh);
+        opacity: 0;
+    }
+}
+
+.titleAnimation {
+    transition: color 2s 500ms;
+    transition: text-shadow 3s 500ms;
+    animation: titleJump 3s 0.5s ease-in 1 both;
+}
+
+.titleAnimation:hover {
+    cursor: pointer;
+    color: rgba(140, 63, 63, 0.8);
+    text-shadow: rgba(255, 0, 0, 0.872) 1px 0 30px;
+}
+
+@keyframes titleJump {
+    0% {
+        transform: translateY(0px);
+    }
+
+    25% {
+        transform: translateY(130px);
+    }
+
+    50% {
+        transform: translateY(-20px);
+    }
+
+    75% {
+        transform: translateY(10px);
+    }
+
+    100% {
+        transform: translateY(0) rotate(360deg);
+    }
+}

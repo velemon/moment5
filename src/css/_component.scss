@@ -1,0 +1,7 @@
+//komponenter som kan återanvändas, knappar, länkar, formulär, modaler m.m
+@use "base";
+
+img {
+    @include base.images;
+    @include base.img-hover;
+}
