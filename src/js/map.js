@@ -25,6 +25,10 @@ document.addEventListener("DOMContentLoaded", () => {
      * @param {SubmitEvent} event - Submit-händelsen som triggas av formuläret.
      */
     form.addEventListener("submit", async (event) => {
+console.log("Latitude:", lat);
+console.log("Longitude:", lon);
+console.log("Bounding box array:", bboxArr);
+console.log("Iframe URL:", `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat},${lon}`);
 
         //Stoppar omladdning av sidan
         event.preventDefault();
