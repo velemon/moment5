@@ -46,8 +46,8 @@ document.addEventListener("DOMContentLoaded", () => {
              * @type {Response}
              */
             const response = await fetch(
-                `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}`
-  {
+                `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}`,
+                {
                     headers: {
                         "User-Agent": "my-app (https://cerulean-crisp-9fd3b5.netlify.app/karta)",
                         "Referer": window.location.href
