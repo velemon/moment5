@@ -25,10 +25,6 @@ document.addEventListener("DOMContentLoaded", () => {
      * @param {SubmitEvent} event - Submit-händelsen som triggas av formuläret.
      */
     form.addEventListener("submit", async (event) => {
-console.log("Latitude:", lat);
-console.log("Longitude:", lon);
-console.log("Bounding box array:", bboxArr);
-console.log("Iframe URL:", `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat},${lon}`);
 
         //Stoppar omladdning av sidan
         event.preventDefault();
@@ -51,12 +47,18 @@ console.log("Iframe URL:", `https://www.openstreetmap.org/export/embed.html?bbox
              */
             const response = await fetch(
                 `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}`
+  {
+                    headers: {
+                        "User-Agent": "my-app (https://cerulean-crisp-9fd3b5.netlify.app/karta)",
+                        "Referer": window.location.href
+                    }
+                }
             );
 
             /**
              * Resultatet från Nominatim i JSON-format.
              * Innehåller en array av matchningar (platser).
-             * @type {Array<{lat: string, lon: string, boundingbox: Array<string>}>}
+             * @type {{lat: string, lon: string, boundingbox: string[]}[]}
              */
             const results = await response.json();
 
@@ -84,13 +86,14 @@ console.log("Iframe URL:", `https://www.openstreetmap.org/export/embed.html?bbox
               * @type {number[]}
               */
             const bboxArr = place.boundingbox.map(Number);
+            const padding = 0.01;
             const bbox = `${bboxArr[2]},${bboxArr[0]},${bboxArr[3]},${bboxArr[1]}`;
 
             //Uppdaterar iframe och länk
             mapIframe.src = `https://www.openstreetmap.org/export/embed.html?bbox=${bbox}&layer=mapnik&marker=${lat},${lon}`;
             mapLink.href = `https://www.openstreetmap.org/?mlat=${lat}&mlon=${lon}#map=12/${lat}/${lon}`;
 
-        // Fångar upp eventuella fel (t.ex. nätverksproblem eller API-fel)
+            // Fångar upp eventuella fel (t.ex. nätverksproblem eller API-fel)
         } catch (error) {
             console.error("Fel vid hämtning av plats:", error);
         }
