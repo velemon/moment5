@@ -130,6 +130,32 @@ main li {
     margin-bottom: 1em;
 }
 
+iframe {
+    width: 100%;
+    border: 2em solid;
+    padding: 1em;
+    border-radius: 2em;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+#link,
+form {
+    font-family: base.$secondary-font;
+    font-size: base.$primary-fontsize;
+    color: base.$primary-color;
+    text-decoration: none;
+    text-align: center;
+
+
+
+}
+
+#link:hover {
+    text-decoration: underline;
+}
+
 footer {
     @include base.footer;
 }
@@ -139,6 +165,10 @@ footer p {
 }
 
 @media screen and (max-width: 499px) {
+    iframe {
+        width: 90%;
+        height: 300px;
+    }
     nav {
         height: fit-content;
         padding-top: 5%;

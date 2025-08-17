@@ -13,10 +13,10 @@
     "parcel": "^2.14.1",
     "sharp": "^0.33.5"
   },
-  "browserlist": "> 0.5%, last 2 versions, not dead",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
   "dependencies": {
-    "sass": "^1.86.0",
     "@cubejs-client/core": "^0.31.0",
-    "chart.js": "^4.0.0"
+    "chart.js": "^4.4.9",
+    "sass": "^1.86.0"
   }
 }

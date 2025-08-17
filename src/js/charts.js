@@ -1,0 +1,150 @@
+//Del 1 - Diagram
+
+/**
+ * @fileoverview Visualiserar data om kurser och program från ett API som diagram med hjälp av Chart.js.
+ * @module Diagram
+ */
+import Chart from "chart.js/auto";
+
+/**
+ * Händelselyssnare för att hämta datan som ska visas i diagrammet när HTML-dokumentet har laddats
+ * och triggar funktionen fetchData.
+ * @listens window#DOMContentLoaded
+*/
+window.addEventListener("DOMContentLoaded", () => {
+    //console.log("Chart finns?", Chart);
+
+    fetchData();
+});
+
+/**
+ * Hämtar kurs- och programdata från API:et som sedan sorteras och filtrerar datan för att få ut rätt information
+ * och visualiserar den i diagram med hjälp av Chart.js.
+ * 
+ * returnerar en promise
+ * @async 
+ * 
+ * @function fetchData funktion som hämtar datan
+ * @throws {Error} felmeddelande genereras om något går fel vid hämtning av data
+ * @returns {Promise<void>} promise som inte returnerar något specifikt värde
+ */
+async function fetchData() {
+    /** URL till API:et 
+     *  @type {string} */
+    const url = "https://studenter.miun.se/~mallar/dt211g/";
+    try {
+        /** HTTP-svar från API:et 
+         * @type {Response} */
+        const response = await fetch(url);
+        if (!response.ok) {
+            throw new Error(`Response status: ${response.status}`);
+        }
+
+        /** vkodat JSON-svar från API:et
+         * @type {ApplicantData[]} */
+        const json = await response.json();
+        //console.log(json);
+
+        /**
+         * Filtrerar ut data av typen "Kurs" och sorterar efter antal sökande och tar de 6 mest populära.
+         * @type {Array<{name: string, applicantsTotal: string}>}
+         */
+        const courseData = json
+            .filter(item => item.type === "Kurs")
+            .sort((a, b) => parseInt(b.applicantsTotal) - parseInt(a.applicantsTotal))
+            .slice(0, 6);
+        //console.log("courseData", courseData);
+
+        /**
+         * Skapar ett stapeldiagram med hjälp av Chart.js och visar de populäraste kurserna baserat på antal sökande.
+         * @type {Chart}
+         * @see {@link https://www.chartjs.org/docs/latest/} för dokumentation.
+         */
+        new Chart(document.getElementById("barChart"),
+            {
+                type: "bar",
+                data: {
+                    /** namn på kurserna som etiketter
+                     * @type {string[]} */
+                    labels: courseData.map(kurs => kurs.name),
+                    datasets: [{
+                        /** etikett för datasetet
+                         * @type {string} */
+                        label: "Totalt antal sökande",
+                        /** antal sökande per kurs
+                         * @type {number[]} */
+                        data: courseData.map(kurs => parseInt(kurs.applicantsTotal)),
+                        backgroundColor: "rgba(54, 162, 235, 0.6)",
+                        borderColor: "rgba(54, 162, 235, 1)",
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    plugins: {
+                        legend: {
+                            display: true
+                        }
+                    },
+                    scales: {
+                        x: {
+                            ticks: {
+                                autoSkip: false,
+                                maxRotation: 90,
+                                minRotation: 70,
+
+                                font: {
+                                    size: 12
+                                }
+                            }
+                        }
+                    }
+                }
+            });
+
+        /**
+        * Filtrerar ut poster av typen "Program", sorterar efter antal sökande och tar de 5 mest populära.
+        * @type {Array<{name: string, applicantsTotal: string}>}
+        */
+        const programData = json
+            .filter(item => item.type === "Program")
+            .sort((a, b) => parseInt(b.applicantsTotal) - parseInt(a.applicantsTotal))
+            .slice(0, 5);
+        //console.log("programData", programData)
+
+        /**
+         * Skapar ett cirkeldiagram som visar antalet sökande per program.
+         * @type {Chart}
+         */
+        new Chart(document.getElementById("pieChart"),
+            {
+                type: "pie",
+                data: {
+                    /** namn på programmen som etiketter 
+                     * @type {string[]} */
+                    labels: programData.map(program => program.name),
+                    datasets: [{
+                        /** etikett för datasetet 
+                         * @type {string} */
+                        label: "Totalt antal sökande",
+                        /** antal sökande per program 
+                         * @type {number[]} */
+                        data: programData.map(program => parseInt(program.applicantsTotal)),
+                        /** färgkoder för varje sektionsdel i cirkeldiagrammet 
+                         * @type {string[]} */
+                        backgroundColor: [
+                            "#FF6384",
+                            "#36A2EB",
+                            "#FFCE56",
+                            "#4BC0C0",
+                            "#9966FF"
+                        ]
+                    }]
+                }
+            });
+
+        // Fångar upp eventuella fel
+    } catch (error) {
+        console.error("Fel vid hämtning eller rendering av diagram:", error);
+    }
+}
