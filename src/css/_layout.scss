@@ -140,17 +140,21 @@ iframe {
     margin-bottom: 2em;
 }
 
-#link,
-.link2,
+#link
 form {
     font-family: base.$secondary-font;
     font-size: base.$primary-fontsize;
     color: base.$primary-color;
     text-decoration: none;
     text-align: center;
+}
 
-
-
+.link2 {
+    font-family: base.$secondary-font;
+    font-size: base.$primary-fontsize;
+    color: base.$primary-color;
+    text-decoration: underline;
+    margin-top: 1em;
 }
 
 .link:hover {
