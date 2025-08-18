@@ -1,8 +1,7 @@
 // Del 2 - Karta
 
 /**
- * @fileoverview Hanterar kart-sökningar på en inbäddad karta med hjälp av OpenStreetMap och Nominatim.
- * @module Map
+ * @file Hanterar kart-sökningar på en inbäddad karta med hjälp av OpenStreetMap och Nominatim.
  */
 
 /**
