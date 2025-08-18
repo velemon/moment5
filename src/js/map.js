@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const mapIframe = document.querySelector("iframe");
     /** refererar till länken för att visa kartan i fullskärm genom OpenStreetMap
      * @type {HTMLAnchorElement}  */
-    const mapLink = document.getElementsId("link");
+    const mapLink = document.getElementbyId("link");
 
     /**
      * Lyssnar på submit-händelsen från formuläret.
