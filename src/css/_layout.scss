@@ -140,7 +140,7 @@ iframe {
     margin-bottom: 2em;
 }
 
-#link,
+.link,
 form {
     font-family: base.$secondary-font;
     font-size: base.$primary-fontsize;
@@ -152,7 +152,7 @@ form {
 
 }
 
-#link:hover {
+.link:hover {
     text-decoration: underline;
 }
 
@@ -169,6 +169,7 @@ footer p {
         width: 90%;
         height: 300px;
     }
+
     nav {
         height: fit-content;
         padding-top: 5%;
